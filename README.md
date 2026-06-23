@@ -23,21 +23,12 @@ A chaos-based pseudo-random bit generator using the logistic map, bit extraction
 
 ---
 
-### Football Booking Points Model
-
-A quantitative modelling framework for estimating football booking points using team tendencies, referee tendencies, and contextual match factors.
-
-**Focus:** probabilistic modelling, sports data, decision support, uncertainty  
-**Repository:** [Link]
-
----
-
 ### Axelrod Cultural Dissemination Model
 
 An agent-based simulation of cultural dissemination using the Axelrod model, exploring convergence and fragmentation under different assumptions.
 
 **Focus:** agent-based modelling, simulation, complex systems, sensitivity analysis  
-**Repository:** [Link]
+**Repository:** [Link](https://github.com/lluis-cr/axelrod-cultural-dissemination)
 
 ## Tools
 
